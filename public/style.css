@@ -1,0 +1,51 @@
+﻿.fontstyle{
+    font-family: 'Bangers';
+    text-align:center;
+    margin:0 auto;
+    padding-top: 1rem;
+    font-size: 6rem;
+}
+.background{
+    background-color:lightblue;
+    margin:0 auto;
+    text-align:center;
+    padding-top: 2rem;
+}
+.textbox{
+    height: 2rem;
+}
+
+.button {
+    background-color: #4CAF50;
+    ;
+    border: none;
+    color: white;
+    padding: 4px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.buttonLink {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 4px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.translation {
+    font-size: 16px;
+    background-color: white;
+    width: 500px;
+    border: 5px solid green;
+    padding: 20px;
+    text-align: center;
+    margin:0 auto;
+}
+
+
